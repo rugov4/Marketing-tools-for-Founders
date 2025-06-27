@@ -250,9 +250,7 @@ Here are a few frameworks to get your price right:
 <br/><br/><br/>
 
 ## 👨‍💻 About
-This was inspired by [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers?tab=readme-ov-file) (thanks Lisa & Ahmed!) and is created and maintained by Edoardo Stradella ([Twitter/X](https://x.com/e_stradella)). <br/>All resources, guides, and tools were done by independent authors and companies. All credentials are included.
+This was inspired by [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers?tab=readme-ov-file) (thanks Lisa, Ahmed, and Edoardo Stradella) ([Twitter/X](https://x.com/e_stradella)). There are personal resources of mine in here as well but I am mostly boosting it for more visibility as I believe more founders need access to such tools. <br/>All resources, guides, and tools were done by independent authors and companies. All credentials are included.
 
-_**Do you want to recommend a resource? Or want me to cover a specific topic? [DM me on X](https://x.com/e_stradella)**_
-
-[![Fazier badge](https://fazier.com/api/v1//public/badges/launch_badges.svg?badge_type=featured&theme=neutral)](https://fazier.com)
+_**Do you want to recommend a resource? Or want me to cover a specific topic? [DM me on LinkedIn) (www.linkedin.com/in/aliuagon)
 
